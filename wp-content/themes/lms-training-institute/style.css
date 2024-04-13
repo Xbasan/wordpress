@@ -1,0 +1,252 @@
+/*
+Theme Name: LMS Training Institute
+Description: LMS Training Institute is theme for teaching classes, academy, classes, courses, e-learning, headless cms, instructor, learning management system, e-learning, distant learning, lms, mentor, progressive web app, teacher, etc. This theme will surely help users run the classes online. After the pandemic people now have get more in online as they don't have to go anywhere. So for tuitions or institutions we have come up with this LMS Training Institute theme where users can promote their education and teach students effortlessly. This theme is awesome with all its features. It comes with amazing sections and colors which can also be customize according to your taste and choice. The theme is completely responsive to different devices like mobile, tabs, desktops, and many other devices. So users can use their website from anywhere. It is colorful theme with stunning animation. Education Websites like LMS, Training Center, Courses Hub, College, Academy, University, School, Kindergarten, etc are the best suit for this theme. it is a professional looking theme with every necessary feature required for building a great website. LMS Training Institute is a WordPress theme with the integration of social media and compatibility with cross browser. LIVE DEMO: https://www.misbahwp.com/demo/lms-training-institute/
+Author: misbahwp
+Theme URI: https://www.misbahwp.com/themes/free-training-institute-wordpress-theme/
+Author URI: https://www.misbahwp.com/
+Template: lms-education
+Version: 2.8
+Requires PHP: 5.6
+Tested up to: 6.4
+Requires at least: 5.0
+Tags: blog, education, e-commerce, wide-blocks, one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, editor-style, post-formats, theme-options, threaded-comments, rtl-language-support
+Text Domain: lms-training-institute
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+LMS Training Institute WordPress Theme has been created by misbahwp(misbahwp.com), 2022.
+LMS Training Institute WordPress Theme is released under the terms of GNU GPL
+*/
+
+#main-menu ul.children li a:hover, #main-menu ul.sub-menu li a:hover,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce a.added_to_cart,.searchform input[type=submit],.sidebar-area .tagcloud a:hover,.comment-reply a,.comment-respond input#submit,nav.woocommerce-MyAccount-navigation ul li,.menu-toggle, .dropdown-toggle, button.close-menu,.slider-btn a,.pagination .nav-links a:hover, .pagination .nav-links a:focus, .pagination .nav-links span.current, .lms-education-pagination span.current, .lms-education-pagination span.current:hover, .lms-education-pagination span.current:focus, .lms-education-pagination a span:hover, .lms-education-pagination a span:focus,.sidebar-area h4.title,.register-top,.sidebar-area .tagcloud a,.scroll-up a, p.wp-block-tag-cloud a, .sidebar-area .wp-block-search__button, .wp-block-button__link {
+	background: #d1143e;
+}
+
+.wp-block-button__link{
+	background: #d1143e !important;
+}
+
+#courses hr,.slider .owl-carousel button.owl-dot.active,.content_inner_box hr{
+	border-color: #d1143e;
+}
+
+.searchform input[type=submit]:hover, .searchform input[type=submit]:focus, footer,.woocommerce ul.products li.product .onsale, .woocommerce span.onsale,.comment-reply a:hover,nav.woocommerce-MyAccount-navigation ul li:hover,.slider-btn a:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce a.added_to_cart:hover,.top-header,#main-menu ul.children, #main-menu ul.sub-menu,.courses-info,.scroll-up a:hover{
+	background: #173359;
+}
+.page-template-frontpage .header,.header{
+	background: transparent;
+}
+a,h1, h2, h3, h4, h5, h6,.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price,.blog_inner_box h3.post-title a,.page-template-frontpage .logo a,.page-template-frontpage .logo span,.page-template-frontpage #main-menu ul li a,h2.woocommerce-loop-product__title,.logo a,.logo span,#main-menu ul li a,.login-top{
+	color: #173359;
+}
+
+#main-menu a:hover, #main-menu ul li a:hover, #main-menu li:hover > a, #main-menu a:focus, #main-menu ul li a:focus, #main-menu li.focus > a, #main-menu li:focus > a, #main-menu ul li.current-menu-item > a, #main-menu ul li.current_page_item > a, #main-menu ul li.current-menu-parent > a, #main-menu ul li.current_page_ancestor > a, #main-menu ul li.current-menu-ancestor > a,.post-meta i,a:hover, a:focus,.courses-info strong,.courses-box-content h3 a,.social-links a:hover, .top-header p,.header-search .open-search-form i, a.cart-customlocation i,#about h4{
+	color: #d1143e;
+}
+
+#main-menu ul.children li a, #main-menu ul.sub-menu li a,.slider h3.post-title a,.courses-info span,.scroll-up a:hover{
+	color: #fff;
+}
+
+.sidebar-area h4.title{
+	border-color: #173359;
+}
+.learn-press-courses[data-layout=list] .course-content .course-readmore a,ul.learn-press-nav-tabs .course-nav.active::before{
+	background: #d1143e !important;
+}
+
+.learn-press-courses[data-layout=list] .course-wrap-meta .meta-item::before, .lp-archive-courses .course-meta__pull-left .meta-item::before,#learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(1):checked ~ .learn-press-nav-tabs .course-nav:nth-child(1) label,#learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(2):checked ~ .learn-press-nav-tabs .course-nav:nth-child(2) label,#learn-press-course-tabs input[name=learn-press-course-tab-radio]:nth-child(3):checked ~ .learn-press-nav-tabs .course-nav:nth-child(3) label{
+	color: #d1143e !important;
+}
+
+.courses-box-content{
+	background: rgb(34 34 34 / 90%);
+}
+
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info{
+	background: #173359 !important;
+}
+
+#checkout-payment #checkout-order-action button, .learnpress-page .lp-button, .learnpress-page #lp-button{
+	background: #d1143e !important;;
+}
+
+.entry-audio audio {
+    width: 100%;
+}
+
+nav.woocommerce-MyAccount-navigation{
+	background: transparent !important;
+}
+
+li.menu-item-has-children::after {
+    color: #000;
+}
+
+.content_inner_box {
+    left: 30%;
+    right: 30%;
+    text-align: center;
+}
+
+.blog_box {
+    background: #000000;
+}
+
+.blog_box img {
+    opacity: 0.6;
+}
+
+.blog_box p{
+	color: #fff;
+}
+
+.slider-btn a {
+    padding: 12px 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.slider-btn {
+    margin: 25px 0;
+}
+
+.courses-box-content {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.courses-info {
+    padding: 10px 5px;
+}
+
+img.image1 {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    box-shadow: 0 0 10px 4px #ccc;
+}
+img.image2 {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    position: absolute;
+    right: 30px;
+    bottom: -60px;
+    box-shadow: 0 0 10px 4px #ccc;
+}
+#about h4 {
+    text-transform: unset;
+    font-weight: 500;
+    font-size: 30px;
+}
+#about h3 {
+    border-bottom: solid 2px #d1143e;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.fixed-header{
+	 background: #fff;
+ }
+.admin-bar .fixed-header{
+	 background: #fff;
+	 margin-top: 32px;
+ }
+
+ .sh2 {
+  border-color: transparent  transparent #d1143e transparent ;
+}
+
+#main-menu ul li.current-menu-item > a, #main-menu ul li.current_page_item > a, #main-menu a:hover, #main-menu ul li a:hover, #main-menu ul li.current-menu-parent > a, #main-menu ul li.current-menu-ancestor > a{
+	color: #000 !important;
+}
+
+.sidebar-area h4.title,
+.sidebar-area h1.wp-block-heading,
+.sidebar-area h2.wp-block-heading,
+.sidebar-area h3.wp-block-heading,
+.sidebar-area h4.wp-block-heading,
+.sidebar-area h5.wp-block-heading,
+.sidebar-area h6.wp-block-heading,
+.sidebar-area .wp-block-search__label {
+    padding: 20px 15px;
+    color: #fff;
+    font-size: 22px;
+    background: #173359;
+    border-left: solid 5px #d1143e;
+}
+footer .wp-block-search__label,
+footer .sidebar-area h1.wp-block-heading,
+footer .sidebar-area h2.wp-block-heading,
+footer .sidebar-area h3.wp-block-heading,
+footer .sidebar-area h4.wp-block-heading,
+footer .sidebar-area h5.wp-block-heading,
+footer .sidebar-area h6.wp-block-heading{
+	background: none !important;
+	border-left: none !important; 
+}
+footer .sidebar-area form{
+	padding: 0px;
+}
+
+footer .sidebar-area h4.title{
+	padding: 0px;
+    background: unset;
+    border-left: unset;
+}
+
+.wp-block-woocommerce-cart .wc-block-cart__submit-button, .wc-block-components-checkout-place-order-button, .wc-block-components-totals-coupon__button, .wp-block-woocommerce-cart .wc-block-cart__submit-button:hover, .wc-block-components-checkout-place-order-button:hover{
+  background: #d1143e;
+  color: #fff !important;
+}
+.wp-block-woocommerce-cart .wc-block-cart__submit-button:hover, .wc-block-components-checkout-place-order-button:hover{
+  border: 2px solid #d1143e;
+}
+
+#comments {
+    background: #F3F4F7;
+    padding: 30px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 720px){
+	.menu-toggle, .dropdown-toggle, button.close-menu,.header i.fa.fa-search, .header i.fas.fa-shopping-cart,#main-menu ul.children li, #main-menu ul.sub-menu li {
+    	background: #d1143e !important;
+	}
+	#main-menu ul.children li a, #main-menu ul.sub-menu li a{
+		color: #173359 !important;
+	}
+	.header i.fa.fa-search, .header i.fas.fa-shopping-cart{
+		color: #fff;
+	}
+	img.image1{
+		width: 290px;
+		height: 290px;
+	}
+	img.image2{
+		width: 190px;
+		height: 190px;
+	}
+	li.menu-item-has-children::after {
+    	color: #000;
+	}
+	.slider-btn a {
+		font-size: 14px !important;
+	}
+}
+
+@media screen and (min-width: 721px) and (max-width: 999px){
+	img.image1{
+		width: 320px;
+		height: 320px;
+	}
+	img.image2{
+		width: 220px;
+		height: 220px;
+		right: 0px;
+	}
+	li.menu-item-has-children::after {
+    color: #000;
+    }
+}

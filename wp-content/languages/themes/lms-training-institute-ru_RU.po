@@ -1,0 +1,213 @@
+# Translation of Themes - LMS Training Institute in Russian
+# This file is distributed under the same license as the Themes - LMS Training Institute package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-25 19:58:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - LMS Training Institute\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "LMS Training Institute is theme for teaching classes, academy, classes, courses, e-learning, headless cms, instructor, learning management system, e-learning, distant learning, lms, mentor, progressive web app, teacher, etc. This theme will surely help users run the classes online. After the pandemic people now have get more in online as they don't have to go anywhere. So for tuitions or institutions we have come up with this LMS Training Institute theme where users can promote their education and teach students effortlessly. This theme is awesome with all its features. It comes with amazing sections and colors which can also be customize according to your taste and choice. The theme is completely responsive to different devices like mobile, tabs, desktops, and many other devices. So users can use their website from anywhere. It is colorful theme with stunning animation. Education Websites like LMS, Training Center, Courses Hub, College, Academy, University, School, Kindergarten, etc are the best suit for this theme. it is a professional looking theme with every necessary feature required for building a great website. LMS Training Institute is a WordPress theme with the integration of social media and compatibility with cross browser. LIVE DEMO: https://www.misbahwp.com/demo/lms-training-institute/"
+msgstr "LMS Training Institute - это тема для учебных классов, академии, классов, курсов, электронного обучения, безголовых CMS, инструктора, системы управления обучением, LMS, наставника, прогрессивного веб-приложения, школы, учителя, университета и т. д. Эта тема, несомненно, поможет пользователям проводить занятия онлайн. После пандемии у людей стало больше онлайн-доступа, так как им не нужно никуда ходить. Поэтому для обучения или учреждений мы придумали эту тему LMS Training Institute, где пользователи могут продвигать свое образование и без особых усилий обучать студентов. Эта тема потрясающая со всеми своими функциями. Он поставляется с удивительными разделами и цветами, которые также можно настроить в соответствии с вашим вкусом и выбором. Тема полностью адаптируется к различным устройствам, таким как мобильные устройства, вкладки, настольные компьютеры и многие другие устройства. Таким образом, пользователи могут использовать свой веб-сайт из любого места. Это красочная тема с потрясающей анимацией. Образовательные веб-сайты, такие как LMS, учебный центр, центр курсов, колледж, академия, университет, школа, детский сад и т. д., лучше всего подходят для этой темы. это профессионально выглядящая тема со всеми необходимыми функциями, необходимыми для создания отличного веб-сайта. LMS Training Institute — это тема WordPress с интеграцией социальных сетей и совместимостью с кросс-браузером.<strong> LIVE DEMO: https://www.misbahwp.com/demo/lms-training-institute/</strong>"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "LMS Training Institute"
+msgstr "LMS Training Institute"
+
+#: footer.php:46
+msgid "Calendar"
+msgstr "Календарь"
+
+#: footer.php:33
+msgid "Archives"
+msgstr "Архивы"
+
+#: footer.php:23
+msgid "Pages"
+msgstr "Страницы"
+
+#: footer.php:13
+msgid "Categories"
+msgstr "Рубрики"
+
+#: header.php:31
+msgid "loading"
+msgstr "загрузка"
+
+#: functions.php:25
+msgid "https://www.misbahwp.com/demo/lms-training-institute/"
+msgstr "https://www.misbahwp.com/demo/lms-training-institute/"
+
+#: functions.php:22
+msgid "https://wordpress.org/support/theme/lms-training-institute/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/lms-training-institute/reviews/#new-post"
+
+#: functions.php:19
+msgid "https://wordpress.org/support/theme/lms-training-institute"
+msgstr "https://wordpress.org/support/theme/lms-training-institute"
+
+#: functions.php:16
+msgid "https://www.misbahwp.com/themes/education-lms-wordpress-theme/"
+msgstr "https://www.misbahwp.com/themes/education-lms-wordpress-theme/"
+
+#: functions.php:13
+msgid "https://www.misbahwp.com/docs/lms-training-institute-pro-docs/"
+msgstr "https://www.misbahwp.com/docs/lms-training-institute-pro-docs/"
+
+#: functions.php:10
+msgid "https://www.misbahwp.com/docs/lms-training-institute-free-docs/"
+msgstr "https://www.misbahwp.com/docs/lms-training-institute-free-docs/"
+
+#: header.php:120
+msgid "View Shopping Cart"
+msgstr "Просмотр корзины покупок"
+
+#: header.php:96
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:265
+msgid "About Us Content Range"
+msgstr "О нас"
+
+#: functions.php:258
+msgid "Number Of Text"
+msgstr "Количество текста"
+
+#: functions.php:242
+msgid "Page Dropdown"
+msgstr "Выпадающая страница"
+
+#: functions.php:227
+msgid "Image 2"
+msgstr "Изображение 2"
+
+#: functions.php:212
+msgid "Image 1"
+msgstr "Изображение 1"
+
+#: functions.php:196
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: functions.php:188
+msgid "Disable"
+msgstr "Отключить"
+
+#: functions.php:187
+msgid "Enable"
+msgstr "Включить"
+
+#: functions.php:182
+msgid "Section Enable / Disable"
+msgstr "Раздел: вкл/откл"
+
+#: functions.php:175
+msgid "Enable / Disable Our Story Section"
+msgstr "Включить / отключить раздел Наша история"
+
+#: functions.php:166
+msgid "You have to select page to show about us section."
+msgstr "Вы должны выбрать страницу, чтобы показать раздел О нас."
+
+#: functions.php:165
+msgid "About Us Settings"
+msgstr "Настройки О нас"
+
+#: functions.php:125
+msgid "This sidebar will be shown next at the bottom of your content."
+msgstr "Эта область виджетов будет показана в нижней части вашего содержимого."
+
+#: functions.php:123
+msgid "Footer sidebar"
+msgstr "Область виджетов в подвале"
+
+#: functions.php:113
+msgid "This sidebar will be shown next to the content."
+msgstr "Эта область виджетов будет показана рядом с содержимым."
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Шаблон главной страницы"
+
+#. translators: %s: WordPress
+#: footer.php:71
+msgid " | Proudly powered by %s"
+msgstr " | На платформе %s"
+
+#: footer.php:70
+msgid "Misbah WP"
+msgstr "Misbah WP"
+
+#: footer.php:64
+msgid "LMS Training Institute WordPress Theme "
+msgstr "Тема WordPress учебного института LMS "
+
+#: core/sections/about-us.php:40 core/sections/slider.php:34
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:40 comments.php:54
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:39 comments.php:53
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:37 comments.php:51
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:16
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.misbahwp.com/"
+msgstr "https://www.misbahwp.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "misbahwp"
+msgstr "misbahwp"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.misbahwp.com/themes/free-training-institute-wordpress-theme/"
+msgstr "https://www.misbahwp.com/themes/free-training-institute-wordpress-theme/"
